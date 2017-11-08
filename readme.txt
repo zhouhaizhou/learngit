@@ -10,3 +10,4 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
 
 test merge default use Fast forward
+test merge default use Fast forward 
