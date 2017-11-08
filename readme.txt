@@ -8,3 +8,5 @@ Creating a new branch is quick & simple.
 =======
 >>>>>>> feature1
 Creating a new branch is quick and simple.
+
+test merge default use Fast forward
