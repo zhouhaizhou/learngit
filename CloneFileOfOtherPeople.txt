@@ -3,3 +3,6 @@ git clone git@github.com:zhouhaizhou/learngit
 默认情况下，我只能看到文件在本地的master分支，如果要想在比人的dev分支上开发，就必须创建远程origin的dev分支到本地，即，采用命令：
 git checkout -b dev origin/dev
 进行修改,然后再不时地把dev分支推送到远程(git push origin dev)
+
+当上面的小伙伴已经向origin/dev分支推送了它的提交，而碰巧你也对同样的文件作了修改，并推送
+要做的前提工作也是像之前的小伙伴那样先下载到本地的某个磁盘中，然后创建远程origin的dev分支到本地，才能出现此分支下的文件，然后进行修改，最后推送
